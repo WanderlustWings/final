@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6f002277e1f31c74fbfa31762aa10d22
-timeCreated: 1527000584
+guid: a90bebff49aea4a96bcea162032520ca
+timeCreated: 1527001629
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -68,9 +68,8 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -289,7 +288,7 @@ TextureImporter:
       name: tiles_for_game_13
       rect:
         serializedVersion: 2
-        x: 259
+        x: 146
         y: 1347
         width: 243
         height: 164
@@ -317,10 +316,10 @@ TextureImporter:
       name: tiles_for_game_15
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 1287
-        width: 288
-        height: 121
+        x: 1134
+        y: 1370
+        width: 289
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,9 +372,9 @@ TextureImporter:
       name: tiles_for_game_19
       rect:
         serializedVersion: 2
-        x: 1349
-        y: 1107
-        width: 451
+        x: 1437
+        y: 1001
+        width: 449
         height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
