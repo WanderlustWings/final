@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 6ceff116b14d9e3408fe3bb42a63f2f5
-timeCreated: 1525066137
+guid: 293dc5440534445048b114d30a3faa2b
+timeCreated: 1525100783
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: contact 1
-    21300002: down 1
-    21300004: passing 1
-    21300006: up 1
-    21300008: contact 2
-    21300010: down 2
-    21300012: passing 2
-    21300014: up 2
+    21300000: sprite sheet_0
+    21300002: sprite sheet_1
+    21300004: sprite sheet_2
+    21300006: sprite sheet_3
+    21300008: sprite sheet_4
+    21300010: sprite sheet_5
+    21300012: sprite sheet_6
+    21300014: sprite sheet_7
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -53,9 +53,8 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -89,7 +88,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: contact 1
+      name: sprite sheet_0
       rect:
         serializedVersion: 2
         x: 80
@@ -103,7 +102,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: down 1
+      name: sprite sheet_1
       rect:
         serializedVersion: 2
         x: 461
@@ -117,7 +116,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: passing 1
+      name: sprite sheet_2
       rect:
         serializedVersion: 2
         x: 810
@@ -131,7 +130,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: up 1
+      name: sprite sheet_3
       rect:
         serializedVersion: 2
         x: 1133
@@ -145,7 +144,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: contact 2
+      name: sprite sheet_4
       rect:
         serializedVersion: 2
         x: 1446
@@ -159,7 +158,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: down 2
+      name: sprite sheet_5
       rect:
         serializedVersion: 2
         x: 1797
@@ -173,7 +172,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: passing 2
+      name: sprite sheet_6
       rect:
         serializedVersion: 2
         x: 2151
@@ -187,7 +186,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: up 2
+      name: sprite sheet_7
       rect:
         serializedVersion: 2
         x: 2490
